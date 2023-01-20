@@ -3,6 +3,8 @@ import { Container, Flex } from "@/styles/Global";
 import { Text } from "@/styles/Text";
 import { Button } from "@/styles/Buttons";
 
+import teste from "/src/public/static/img/logo/teste.jpeg"
+
 // Components
 import { Stack } from "@/components/Stack";
 import { Project } from "@/components/Project";
