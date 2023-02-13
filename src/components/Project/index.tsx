@@ -6,7 +6,6 @@ import {
   ProjectLink,
   ProjectLinks,
 } from "./style";
-
 import { Text } from "@/styles/Text";
 import { useEffect, useState } from "react";
 import { FaGithub, FaShare } from "react-icons/fa";
